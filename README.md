@@ -1,2 +1,2 @@
-# FormTheodinProject
-Ejercicio formulario para The Odin Project
+# Formulario para The odin Project
+Ejercicio formulario.
